@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! I am Akshay.👋
+
+I'm working as a junior research fellow in radio astronomy. 
+https://akshay-e.github.io/
+
 
 <!--
 **Akshay-E/Akshay-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
