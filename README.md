@@ -2,7 +2,7 @@
 
 I'm working as a junior research fellow in radio astronomy. <br/>
 
-<a href="https://akshay-e.github.io/" target="_blank">https://akshay-e.github.io/</a>
+<a href="https://akshay-e.github.io/" target="_blank">Personal website </a>
 
 
 <!--
